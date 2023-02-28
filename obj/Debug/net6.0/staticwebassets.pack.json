@@ -1,0 +1,701 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Registration.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Registration.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\404-Page-image.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\404-Page-image.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Already-volunteered.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Already-volunteered.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Animal-welfare-&-save-birds-campaign-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Animal-welfare-&-save-birds-campaign-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Animal-welfare-&-save-birds-campaign.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Animal-welfare-&-save-birds-campaign.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-3.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-4.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-5.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-login.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability-login.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Grow-Trees-On-the-path-to-environment-sustainability.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Nourish-the-Children-in--African-country-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Nourish-the-Children-in--African-country-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Nourish-the-Children-in--African-country.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Nourish-the-Children-in--African-country.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Open-Volunteering-Requests.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Open-Volunteering-Requests.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Plantation-and-Afforestation-programme-1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Plantation-and-Afforestation-programme-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Plantation-and-Afforestation-programme.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Plantation-and-Afforestation-programme.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Seats-left.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Seats-left.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Volunteering-Rank.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Volunteering-Rank.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\Voted-Missions.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\Voted-Missions.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\achieved.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\achieved.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\add.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\add1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\add1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\arrow.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\bell-big.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\bell-big.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\bell.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\bell.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\bin.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\bin.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\calender.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\calender.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\cancel.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\cancel1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\cancel1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\checked.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\checked.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\cross.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\deadline.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\deadline.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\doc.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\down.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\drag-and-drop.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\drag-and-drop.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\drop-down.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\drop-down.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\eye.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\eye.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\facebook.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\filter.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\filter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\gift.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\gift.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\graph.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\graph.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\grid.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\heart.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\heart1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\heart1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\hours.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\hours.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\image.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\image1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\image2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img11.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img11.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img22.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img22.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img3.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\img33.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\img33.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\info.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\info.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\left.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\left1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\left1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\linkedin.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\list.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\list.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\logo.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\mission.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\my-story.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\my-story.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\new-message.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\new-message.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\next.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\organization.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\organization.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\pdf.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\pin.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\pin1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\pin1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\previous.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\previous.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\right-arrow.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\right-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\right-arrow1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\right-arrow1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\right-arrow2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\right-arrow2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\right-white.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\right-white.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\right.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\search.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\selected-star.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\selected-star.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\settings.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\star-empty.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\star-empty.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\star.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\twitter.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\up.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\up.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\user-img-large.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\user-img-large.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\user-img.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\user-img.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\user.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\user1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer1.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer2.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer3.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer4.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer5.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer6.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer7.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer7.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer8.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer8.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\volunteer9.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\volunteer9.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\web.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\web.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\CI Platform Assets\\xlsx.png",
+      "PackagePath": "staticwebassets\\CI Platform Assets\\xlsx.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\source\\repos\\Registration\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Registration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Registration.props",
+      "PackagePath": "build\\Registration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Registration.props",
+      "PackagePath": "buildMultiTargeting\\Registration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Registration.props",
+      "PackagePath": "buildTransitive\\Registration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
